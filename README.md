@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Maïmouna! 👋🏾
 
-<!--
-**maimounabamba/maimounabamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate Computer Engineering student with a great interest for Cloud Computing. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **Cloud Computing and Computer Network**
+- 🔭 Working on: **Cloud-based Storage System project**
+- 🌍 Languages: **FRENCH, ENGLISH, Mother tongue**
+- 📫 How to reach me: **maimounabamb764@gmail.com**
+- ⚡ Fun fact: **I Enjoy cooking and quality time**
+
+## Get in Touch 📬
+
+- **[LinkedIn]** (https://www.linkedin.com/in/maïmouna-bamba-40229a296?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+
