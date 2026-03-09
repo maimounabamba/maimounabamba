@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Computer Engineering student with a great interest for Cloud Computing. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Computer Engineering student with a great interest for Cloud Computing. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Cloud Computing and Computer Network**
 - 🔭 Working on: **Cloud-based Storage System project**
